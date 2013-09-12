@@ -3,8 +3,15 @@
  * Configuration for OAuth providers.
  */
 return array(
-	//'enabled' => array(
-	//	
+	//'enabled'    => array(
+		//'google'      => 'Google',
+		//'twitter'     => 'Twitter',
+		//'github'      => 'Github',
+		//'facebook'    => 'Facebook',
+		//'linkedin'    => 'LinkedIn',
+		//'vk'          => 'VKontakte',
+		//'yandex'      => 'Yandex',
+		//'yahoo'       => 'Yahoo',
 	//),
 	/**
 	 * Twitter applications can be registered at https://twitter.com/apps.
